@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\My Projects\system\system\Source.cpp(284): warning C4715: 'call': not all control paths return a value
+E:\My Projects\system\system\Source.cpp(444): warning C4715: 'message': not all control paths return a value
+E:\My Projects\system\system\Source.cpp(729): warning C4715: 'charging': not all control paths return a value
+E:\My Projects\system\system\Source.cpp(935): warning C4715: 'package': not all control paths return a value
+  system.vcxproj -> E:\My Projects\system\x64\Debug\system.exe
